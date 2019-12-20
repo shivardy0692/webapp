@@ -5,4 +5,4 @@ echo -e "Push To : \c"
 read b
 git add .
 git commit -m "$a"
-git push -u origin $b 
+git push 
